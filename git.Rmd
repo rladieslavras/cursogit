@@ -10,9 +10,59 @@ output:
 
 # Quem Somos
 
-# Rmarkdown
+R-LADIES É UMA ORGANIZAÇÃO MUNDIAL CUJA MISSÃO PROMOVER A DIVERSIDADE DE 
+GÊNERO NA COMUNIDADE R.
+
+A comunidade R sofre de uma sub-representação de gêneros minoritários 
+(incluindo, mas não se limitando a mulheres cis / trans, homens trans, 
+não binários, genderqueer, agender) em todas as funções e áreas de participação, 
+seja como líderes, desenvolvedores de pacotes, palestrantes de conferências, 
+participantes da conferência, educadores ou usuários (veja as estatísticas recentes).
+
+Como uma iniciativa de diversidade, a missão do R-Ladies é alcançar 
+uma representação proporcional ao encorajar, inspirar e capacitar pessoas 
+de gêneros atualmente sub-representados na comunidade R. O foco principal 
+do R-Ladies, portanto, é apoiar entusiastas do gênero R de minorias para 
+alcançar seu potencial de programação, construindo uma rede global 
+colaborativa de líderes R, mentores, alunos e desenvolvedores para 
+facilitar o progresso individual e coletivo em todo o mundo.
+
+Saiba mais: <https://rladies.org/>
+Saiba mais sobre o nosso capítulo: <https://www.meetup.com/rladies-lavras/>
 
 # GitHub
+
+GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. 
+Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em 
+projetos privados e/ou Open Source de qualquer lugar do mundo. GitHub é amplamente utilizado por 
+programadores para divulgação de seus trabalhos ou para que outros programadores contribuam com o projeto, 
+além de promover fácil comunicação através de recursos que relatam problemas ou mesclam repositórios remotos (issues, pull request).
+
+O GitHub é mundialmente usado e chega a ter mais de 36 milhões de usuários ativos mundialmente contribuindo 
+em projetos comerciais ou pessoais. Hoje o GitHub abriga mais de 100 milhões de projetos, alguns deles que
+são conhecidos mundialmente. WordPress, GNU/Linux, Atom, Electron. GitHub também oferece suporte ao recurso
+de organizacão que é amplamente utilizado por aqueles que querem uma escala maior para seus projetos. 
+Na maioria das vezes, o recurso é usado por empresas já existentes como a Google, Microsoft e WordPress.
+
+Crie sua conta em: <https://github.com/>
+
+# R Markdown
+
+R Markdown, ou simplesmente rmarkdown, é a ferramenta perfeita para transformar suas análises em 
+documentos, relatórios, apresentações e até mesmo dashboards de alta qualidade e de maneira programática. 
+Foi desenvolvida para facilitar a reprodução de resultados, visto que tanto código quanto narrativa estão no 
+mesmo documento, e os resultados são automaticamente gerados do código presente no documento.
+
+Com R Markdown, é possível:
+
+- Compilar um documento em um relatório em diferentes formatos de saída, como PDF, HTML e Word.
+- Produzir slides para apresentações.
+- Criar dashboards interativas, com layouts atraentes e que se adaptam à tela do usuário.
+- Criar relatórios interativos com Shiny.
+- Escrever artigos científicos ou livros.
+- Criar blogs ou sites.
+
+`install.packages('rmarkdown')`
 
 # Flexdashboard
 
