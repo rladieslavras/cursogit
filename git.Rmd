@@ -1,0 +1,32 @@
+---
+title: "Curso GitHub"
+author: "RLadies Lavras"
+output: 
+  flexdashboard::flex_dashboard:
+  vertical_layout: scroll
+---
+
+# Pagina Inicial
+
+# Quem Somos
+
+# Rmarkdown
+
+# GitHub
+
+# Flexdashboard
+
+Painéis interativos fáceis para R
+
+Use R Markdown para publicar um grupo de visualizações de dados relacionados como um painel. 
+
+*Passo 1:* Instalar o pacote `install.packages("flexdashboard")`
+
+*Passo 2:* trocar o output para
+
+```{r, eval=FALSE, echo=TRUE}
+output: 
+  flexdashboard::flex_dashboard:
+  vertical_layout: scroll
+```
+
